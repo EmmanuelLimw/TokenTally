@@ -41,7 +41,8 @@ Azure,T4 (16 GB),Turing,1,16,16,110,1.20,1.20,0.48,NC16as T4 v3
 Azure,T4 (16 GB),Turing,4,64,64,440,4.35,1.09,1.73,NC64as T4 v3
 Azure,K80 (12 GB),Kepler,1,12,6,56,0.90,0.90,0.09,NC6
 Azure,K80 (12 GB),Kepler,2,24,12,112,1.80,0.90,0.18,NC12
-Azure,K80 (12 GB),Kepler,4,48,24,224,3.60,0.90,0.36,NC24
+Azure,K80 (12 GB),Kepler,4,48,24,224,3.60,0.90,0.36,NC24,
+DataCrunch,L40 (48 GB),Ada Lovelace,1,48,20,60,1.36,1L40S.20V
 Cudo Compute,A4000 (16 GB),Ampere,1,16,2,4,0.30,0.29,,
 Cudo Compute,A4000 (16 GB),Ampere,1,16,2,4,0.32,0.30,,
 Cudo Compute,A5000 (24 GB),Ampere,1,24,2,4,0.53,0.52,,
